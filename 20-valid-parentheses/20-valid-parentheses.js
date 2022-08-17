@@ -25,9 +25,7 @@ var isValid = function(s) {
     }
     
   if (count.length === 0) {
-    console.log('true')
     return true
   }
-  console.log('false')
   return false
 };
